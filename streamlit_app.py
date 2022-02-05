@@ -18,7 +18,7 @@ st.write(
 )
 
 
-colored('Equipo ROSA', 'pink')
+print(colored('Equipo ROSA', 'pink'))
 
 
 """
