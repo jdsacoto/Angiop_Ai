@@ -12,11 +12,11 @@ st.write(
 # ANGIOP.AI
 """
 )
-st.write(
+
 """
 <*font color=‘pink’>EQUIPO ROSA</*font>, unsafe_allow_html=True)
 """
-)
+
 """
 It's our pleasure to introduce you ANGIOP.AI, an Artificial Intelligence model which converts simple angiography images into contrasted images.
 """
