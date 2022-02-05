@@ -27,8 +27,7 @@ It's our pleasure to introduce you ANGIOP.AI, an Artificial Intelligence model w
 """
 ## File Uploader
 It's hard to test the ability to upload files in an automated way, so here you
-should test it by hand. Please upload a Zip file and make sure a table shows up
-below with its contents.
+should test it by hand. Please upload a Zip file and make sure it is the correct file.
 """
 
 w = st.file_uploader("Upload a DCM.zip file", type="zip")
@@ -39,9 +38,7 @@ if w:
     st.write(data)
 """
 ## File Downloader
-It's hard to test the ability to upload files in an automated way, so here you
-should test it by hand. Please upload a Zip file and make sure a table shows up
-below with its contents.
+You can download the new .Zip file with contrasted images.
 """    
 # Text files
 
