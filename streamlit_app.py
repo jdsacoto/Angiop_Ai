@@ -5,8 +5,8 @@ print("Hello world")
 import streamlit as st
 
 """
-## File Uploader
-#Equipo Rosa
+# File Uploader
+##Equipo Rosa
 It's hard to test the ability to upload files in an automated way, so here you
 should test it by hand. Please upload a Zip file and make sure a table shows up
 below with its contents.
@@ -14,7 +14,7 @@ below with its contents.
 
 
 """
-# File Uploader
+## File Uploader
 It's hard to test the ability to upload files in an automated way, so here you
 should test it by hand. Please upload a Zip file and make sure a table shows up
 below with its contents.
@@ -27,7 +27,7 @@ if w:
     data = pd.read_csv(w)
     st.write(data)
 """
-# File Downloader
+## File Downloader
 It's hard to test the ability to upload files in an automated way, so here you
 should test it by hand. Please upload a Zip file and make sure a table shows up
 below with its contents.
