@@ -5,6 +5,10 @@ print("Hello world")
 import streamlit as st
 # importing matplotlib modules
 from PIL import Image
+
+from termcolor import colored
+
+
 img = Image.open("Angio.png")
 st.image(img)
 st.write(
@@ -13,9 +17,9 @@ st.write(
 """
 )
 
-"""
-<*font color=‘pink’>EQUIPO ROSA</*font>, unsafe_allow_html=True)
-"""
+
+colored('Equipo ROSA', 'pink')
+
 
 """
 It's our pleasure to introduce you ANGIOP.AI, an Artificial Intelligence model which converts simple angiography images into contrasted images.
