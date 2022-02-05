@@ -6,7 +6,7 @@ import streamlit as st
 # importing matplotlib modules
 from PIL import Image
 
-filename = "Angiop.png"
+filename = "Angio.png"
 img = cv2.imread(filename, 1)
 image = np.array([img])
 
