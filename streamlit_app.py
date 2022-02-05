@@ -37,10 +37,3 @@ Foo, Bar
 # Different ways to use the API
 
 st.download_button('Download CSV', text_contents, 'text/csv')
-st.download_button('Download CSV', text_contents)  # Defaults to 'text/plain'
-
-with open('myfile.csv') as f:
-   st.download_button('Download CSV', f)  # Defaults to 'text/plain'
-
-# ---
-# Binary files
