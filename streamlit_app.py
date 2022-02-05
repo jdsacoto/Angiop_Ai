@@ -7,9 +7,10 @@ import streamlit as st
 from PIL import Image
 img = Image.open("Angio.png")
 st.image(img)
-"""
+str.write("""
 # ANGIOP.AI
-"""
+""")
+
 """
 Equipo Rosa
 """
