@@ -6,8 +6,10 @@ import streamlit as st
 
 """
 # ANGIOP.AI
+"""
+"""
 ##Equipo Rosa
-It's our pleasure to introduce to you ANGIOP. AI, an Artificial Intelligence model which 
+It's our pleasure to introduce you ANGIOP.AI, an Artificial Intelligence model which converts simple angiography images into contrasted images.
 """
 
 
