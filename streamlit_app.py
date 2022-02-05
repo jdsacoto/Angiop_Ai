@@ -4,15 +4,9 @@ print("Hello world")
 #streamlit hello
 import streamlit as st
 # importing matplotlib modules
-import matplotlib.image as mpimg
-import matplotlib.pyplot as plt
-  
-# Read Images
-img = mpimg.imread('Angio.png')
-  
-# Output Images
-plt.imshow(img)
-
+from PIL import Image
+img = Image.open("Angio.png")
+st.image(img)
 """
 # ANGIOP.AI
 """
