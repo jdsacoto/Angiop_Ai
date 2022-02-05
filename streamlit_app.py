@@ -12,9 +12,6 @@ st.write(
 # ANGIOP.AI
 """
 )
-"""
-# ANGIOP.AI
-"""
 
 """
 Equipo Rosa
