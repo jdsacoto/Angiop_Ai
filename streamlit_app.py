@@ -1,7 +1,7 @@
 #dashboard
 print("Hello world")
-pip install streamlit
-streamlit hello
+#pip install streamlit
+#streamlit hello
 import streamlit as st
 
 x = st.slider('Select a value')
