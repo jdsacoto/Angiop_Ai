@@ -1,0 +1,2 @@
+#dashboard
+print("Hello world")
