@@ -10,7 +10,7 @@ st.write(x, 'squared is', x * x)
 """
 # File Uploader
 It's hard to test the ability to upload files in an automated way, so here you
-should test it by hand. Please upload a CSV file and make sure a table shows up
+should test it by hand. Please upload a Zip file and make sure a table shows up
 below with its contents.
 """
 
