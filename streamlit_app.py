@@ -14,7 +14,7 @@ st.write(
 )
 st.write(
 """
-#<p style="font-family:Courier; color:Blue; font-size: 20px;">Equipo Rosa</p>
+<p style="font-family:Courier; color:Blue; font-size: 20px;">Equipo Rosa</p>
 """
 )
 """
