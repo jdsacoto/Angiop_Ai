@@ -5,8 +5,8 @@ print("Hello world")
 import streamlit as st
 # importing matplotlib modules
 from PIL import Image
+from colorama import Fore, Back, Style
 
-from termcolor import colored
 
 
 img = Image.open("Angio.png")
@@ -16,9 +16,8 @@ st.write(
 # ANGIOP.AI
 """
 )
+print(Fore.RED + 'some red text')
 
-
-print(colored('Equipo ROSA', 'pink'))
 
 
 """
