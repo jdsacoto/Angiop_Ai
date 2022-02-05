@@ -14,7 +14,7 @@ should test it by hand. Please upload a CSV file and make sure a table shows up
 below with its contents.
 """
 
-w = st.file_uploader("Upload a CSV file", type="csv")
+w = st.file_uploader("Upload a DCM.zip file", type="csv")
 if w:
     import pandas as pd
 
