@@ -42,7 +42,7 @@ You can download the new .Zip file with contrasted images.
 """    
 # Text files
 
-text_contents = ""
+text_contents = "Hello world"
 
 # Different ways to use the API
 
