@@ -42,11 +42,7 @@ You can download the new .Zip file with contrasted images.
 """    
 # Text files
 
-text_contents = '''
-Foo, Bar
-123, 456
-789, 000
-'''
+text_contents = ""
 
 # Different ways to use the API
 
