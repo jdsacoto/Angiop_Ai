@@ -37,12 +37,6 @@ if w:
     data = pd.read_csv(w)
     st.write(data)
 
-if st.button('Run model'):
-     st.write('Model is Running')
- else:
-     st.write('Model is stopped')
-text_contents = "Model Finished"
-
 """
 ## File Downloader
 You can download the new .Zip file with contrasted images.
