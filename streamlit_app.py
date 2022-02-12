@@ -13,7 +13,7 @@ st.image(img)
 st.write(
 """
 #Pink Team\n
-ANGIOP.AI
+##ANGIOP.AI
 """)
 
 st.write("""
