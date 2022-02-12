@@ -5,13 +5,9 @@ print("Hello world")
 import streamlit as st
 # importing matplotlib modules
 from PIL import Image
-
-
-
 img = Image.open("Angio.png")
 st.image(img)
-st.write(
-"""
+st.write("""
 #Pink Team\n
 ##ANGIOP.AI
 """)
