@@ -41,8 +41,11 @@ if w:
 You can download the new .Zip file with contrasted images.
 """    
 # Text files
-
-text_contents = "Hello world"
+if st.button('Run model'):
+     st.write('Model is Running')
+ else:
+     st.write('Model is stopped')
+#text_contents = "Hello world"
 
 # Different ways to use the API
 
