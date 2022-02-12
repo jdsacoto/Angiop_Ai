@@ -45,7 +45,7 @@ if st.button('Run model'):
      st.write('Model is Running')
  else:
      st.write('Model is stopped')
-#text_contents = "Hello world"
+text_contents = "Model Finished"
 
 # Different ways to use the API
 
