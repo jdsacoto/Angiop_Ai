@@ -40,13 +40,13 @@ if w:
 ## File Downloader
 You can download the new .Zip file with contrasted images.
 """    
-# Text files
+"""
 if st.button('Run model'):
      st.write('Model is Running')
  else:
      st.write('Model is stopped')
 text_contents = "Model Finished"
-
+"""
 # Different ways to use the API
 
 st.download_button('Download ZIP', text_contents, 'text/zip')
