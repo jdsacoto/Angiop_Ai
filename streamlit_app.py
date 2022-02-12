@@ -12,7 +12,7 @@ img = Image.open("Angio.png")
 st.image(img)
 st.write(
 """
-#Pink Team
+#Pink Team\n
 ANGIOP.AI
 """)
 
