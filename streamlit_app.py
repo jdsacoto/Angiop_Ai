@@ -43,5 +43,5 @@ You can download the new .Zip file with contrasted images.
 """    
 
 # Different ways to use the API
-
+text_contents = ""
 st.download_button('Download ZIP', text_contents, 'text/zip')
